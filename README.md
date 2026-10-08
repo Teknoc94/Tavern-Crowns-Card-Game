@@ -4,7 +4,7 @@ A tavern card game of crowns, castles and folk-tale monsters, set in a fantasy C
 
 Three rounds, two victories, ten cards in your hand. Raise the red-and-silver Árpád banners, bribe the Golden Basileia, call the fairies of the Bakony, the Night Brood of the marshes or the river clans of the Danube, and outlast an opponent who knows exactly when to pass.
 
-**[Play it in your browser](https://YOUR-USERNAME.github.io/tavern-crowns/)** (after you enable GitHub Pages, see below)
+**[Play it in your browser](https://teknoc94.github.io/tavern-crowns/)** (after you enable GitHub Pages, see below)
 
 ## Features
 
